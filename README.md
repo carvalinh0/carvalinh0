@@ -11,6 +11,7 @@ Mail - <a href="mailto:felipesouzacarvalh08@gmail.com">felipesouzacarvalho08@gma
 <!--Linkedin - <a href="https://www.linkedin.com/in/"Visit</a> -->
 
 <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="Pascal" height="30" width="40" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default">
 
 ## Stats 📊
