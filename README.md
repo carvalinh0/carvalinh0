@@ -11,8 +11,8 @@ Mail - <a href="mailto:felipesouzacarvalh08@gmail.com">felipesouzacarvalho08@gma
 <img align="center" alt="Pascal" height="30" width="40" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default">
 
 ## Stats 📊
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=carvalinh0&count_private=true&line_height=21&show_icons=true&theme=dracula"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalinh0&layout=compact&card_width=250&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=carvalinh0&count_private=true&line_height=21&show_icons=true&theme=radical&hide_border=0"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalinh0&layout=compact&card_width=250&theme=radical&hide_border=0"/>
 
 
 
