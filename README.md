@@ -2,7 +2,7 @@
 I'm **Carvalinho**, a **16 years** old programmer, studying back-end technologies.
 
 ## Stack
-Some of my programming languages knowledge:
+Some of my knowledge:
 
 <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img alt="Pascal" height="30" width="40" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default"> <img alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   
