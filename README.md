@@ -1,5 +1,5 @@
 # Hey There 👋
-I'm **Carvalinho**, a **16 years** old programmer, studying back-end technologies.
+I'm **Carvalinho**, a **teenanger** programmer, studying back-end technologies.
 
 ## Stack
 Some of my knowledge:
