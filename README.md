@@ -10,7 +10,7 @@
             <li>💻 I'm pursuing a degree in Computer Science at <a href="https://www.fiap.com.br/graduacao/bacharelado/ciencia-da-computacao-data-science-ia-platform-engineering">FIAP</a>!</li>
             <li>💡 I'm learning Back-End technologies</li>
             <li>🧠 I like philosophy</li>
-            <li>📷 My hobbies is photography</li>
+            <li>📷 My hobby is photography</li>
             <li>🎮 I love gaming</li>
             <li>✈ I like to travel and seeing the world from different perspectives</li>
             </ul>
