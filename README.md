@@ -26,6 +26,7 @@
     <img align="center" alt="Linux" height="90" width="60" src="./data/Linux-Dark.svg">
     <img align="center" alt="JavaScript" height="90" width="60" src="./data/javascript.png">
     <img align="center" alt="Python" height="90" width="60" src="./data/python.png">
+    <img align="center" alt="Typescript" height="90" width="60" src="./data/Typescript.png">
 </div>
 
 <br/>
