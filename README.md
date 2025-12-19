@@ -39,5 +39,6 @@
 ##
 
 <div align="center"> 
-    <a href="https://www.linkedin.com/in/felipecarvalh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/felipecarvalh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:contact@carvalinho.dev" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a> 
 </div>
