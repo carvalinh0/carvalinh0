@@ -20,7 +20,7 @@
 
 <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     <h3>💻 Technologies & Runtimes</h3>
-    <img alt="Bun" height="50" src="./data/bun.png">
+    <img alt="Bun" height="50" src="./data/bun.svg">
     <img alt="NodeJS" height="50" src="./data/nodejs-original.svg">
     <img alt="Docker" height="50" src="./data/docker_icon.svg">
 </div>
@@ -46,7 +46,7 @@
     <h3>🛠️ Tools</h3>
     <img alt="Git" height="50" src="./data/git_icon.svg">
     <img alt="VsCode" height="50" src="./data/vscode_icon.svg">
-    <img alt="Postman" height="50" src="./data/postman-icon.svg">
+    <img alt="Postman" height="50" src="./data/postman.webp">
 </div>
 
 <br/>
