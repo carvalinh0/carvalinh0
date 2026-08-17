@@ -18,15 +18,43 @@
 
 ##
 
-<div style="display: inline_block" align="center">
-    <h3 align="center">💻 Languages, Technologies and Tools that I know, use and study</h3>
-    <img align="center" alt="MySQL" height="90" width="60" src="./data/mysql-original.svg">
-    <img align="center" alt="Git" height="90" width="60" src="./data/git_icon.svg">
-    <img align="center" alt="VsCode" height="50" width="60" src="./data/vscode_icon.svg">
-    <img align="center" alt="Linux" height="90" width="60" src="./data/Linux-Dark.svg">
-    <img align="center" alt="JavaScript" height="90" width="60" src="./data/javascript.png">
-    <img align="center" alt="Python" height="90" width="60" src="./data/python.png">
-    <img align="center" alt="Typescript" height="90" width="60" src="./data/Typescript.png">
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <h3>💻 Technologies & Runtimes</h3>
+    <img alt="Bun" height="50" src="./data/bun.png">
+    <img alt="NodeJS" height="50" src="./data/nodejs-original.svg">
+    <img alt="Docker" height="50" src="./data/docker_icon.svg">
+</div>
+
+<br/>
+
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <h3>⚡ Frameworks</h3>
+    <img alt="React" height="50" src="./data/react_icon.svg">
+    <img alt="Express" height="50" src="./data/express.png">
+</div>
+
+<br/>
+
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <h3>🧅 Popular Libs</h3>
+    <img alt="DiscordJS" height="50" src="./data/discordjs.png">
+</div>
+
+<br/>
+
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <h3>🛠️ Tools</h3>
+    <img alt="Git" height="50" src="./data/git_icon.svg">
+    <img alt="VsCode" height="50" src="./data/vscode_icon.svg">
+    <img alt="Postman" height="50" src="./data/postman-icon.svg">
+</div>
+
+<br/>
+
+<div style="display: inline-block; vertical-align: top;">
+    <h3>🗄️ Databases & ORMs</h3>
+    <img alt="MySQL" height="50" src="./data/mysql-original.svg">
+    <img alt="Prisma" height="50" src="./data/prisma.png">
 </div>
 
 <br/>
