@@ -1,0 +1,150 @@
+# =====================================================================
+#  PROFILE CARD CONFIGURATION  (this is the only file you need to edit)
+# =====================================================================
+#
+#  After editing, commit your changes: GitHub Actions will regenerate the SVGs.
+#  To test locally without a token:  python generate.py --demo
+#
+#  Dynamic values use curly braces, e.g., "{repos}". Available placeholders:
+#
+#    Profile ........ {username} {name} {bio} {company} {location}
+#                    {website} {email} {created}
+#    Time ........... {age} (requires birthday)  {account_age}
+#    Stats .......... {followers} {following} {repos} {contributed}
+#                    {stars} {forks} {gists} {prs} {issues}
+#                    {contributions} (last 12 months)
+#    Code ........... {commits} {loc} {loc_add} {loc_del} {languages}
+#
+#  Text colors: <key>..</key> <value>..</value> <add>..</add>
+#               <del>..</del> <dim>..</dim>
+# =====================================================================
+
+# Your GitHub username.
+# Leave "" to automatically use the repository owner
+# (works when the repo is named <username>/<username>).
+username: "carvalinh0"
+
+# Birth date (optional, YYYY-MM-DD). Enables {age}.
+birthday: ""
+
+# Language for age ({age}): "pt" or "en"
+language: en
+
+# How many languages to show in {languages}
+top_languages: 3
+
+# Thousands separator for numbers: "." (1.234) or "," (1,234) or "" (1234)
+thousands: "."
+
+# Manual adjustments added to calculated stats. Useful for
+# deleted repositories that no longer appear in the API.
+offsets:
+  commits: 0
+  contributed: 0
+  loc_add: 0
+  loc_del: 0
+
+# Lines of code calculation ({loc}, {loc_add}, {loc_del}).
+# Merge commits are never counted in lines (GitHub credits them to the
+# original author of the merged work). Additionally:
+loc:
+  # Commits with more lines (additions + deletions) than this are ignored:
+  # usually datasets, lockfiles, node_modules, generated code.
+  # 0 = no limit. Changing this value recalculates everything on the next run.
+  max_commit_lines: 0
+  # Repositories to completely ignore (commits and lines):
+  # "name" or "owner/name". E.g., [my-dataset, my-org/legacy]
+  exclude_repos: [carvalinh0/fiap-cpad-cp2-eventos-fiap, carvalinh0/FICSIT-Planner, r1qk/Challenge-2026]
+
+# ---------------------------------------------------------------------
+#  ASCII ART (left side of the card)
+# ---------------------------------------------------------------------
+ascii:
+  # avatar -> converts your GitHub avatar automatically
+  # image  -> converts the image specified in "image" (file path or URL)
+  # file   -> uses pre-made text from "file" (e.g., ascii.txt)
+  # none   -> no art, text only
+  source: avatar
+  image: ""
+  file: ascii.txt
+  width: 54        # width in characters (avatar/image)
+  invert: false    # true inverts light/dark (useful if output looks "negative")
+  contrast: 1.0    # 1.0 = original; higher = more contrast
+
+# ---------------------------------------------------------------------
+#  APPEARANCE
+# ---------------------------------------------------------------------
+theme:
+  font_size: 16
+  line_height: 20
+  text_columns: 64   # text column width in characters
+  rule: "—"          # character for the line next to section titles
+  dark:
+    background: "#161b22"
+    text: "#c9d1d9"
+    key: "#ffa657"
+    value: "#a5d6ff"
+    add: "#3fb950"
+    del: "#f85149"
+    dim: "#616e7f"
+  light:
+    background: "#f6f8fa"
+    text: "#24292f"
+    key: "#953800"
+    value: "#0a3069"
+    add: "#1a7f37"
+    del: "#cf222e"
+    dim: "#c2cfde"
+
+# ---------------------------------------------------------------------
+#  CARD CONTENT
+# ---------------------------------------------------------------------
+# Each section has a title and a list of lines.
+#
+#   - Key: value          -> line "Key: ........ value"
+#   - Key.Subkey: value   -> the dot separates colored parts
+#   - ""                  -> blank line
+#   - row:                -> multiple columns on the same line
+#       - Repos: "{repos}"
+#       - Stars: "{stars}"
+#
+# Tip: values containing { } or : must be enclosed in quotes.
+sections:
+  - title: "{username}@github"
+    lines:
+      - Name: "{name}"
+      - Uptime: "{age}"
+      - Location: "{location}"
+      - Company: "{company}"
+      - Hobbies: "Photography, Gaming and cooking"
+      - ""
+
+  - title: "Skills"
+    lines:
+      - Languages.Top: "{languages}"
+      - Languages.Main: "TypeScript, Python, Rust"
+      - Technologies: "Docker"
+      - Frameworks: "React, Express, Hono"
+      - Databases: "PostgreSQL, MySQL"
+      - Databases.ORMs: "Prisma"
+      - Popular.Libs: "Discord.js"
+      - IDE: "VS Code"
+      - OS: "Fedora"
+      - ""
+
+  - title: "- Contact"
+    lines:
+      - Site: "{website}"
+      - Email: "contact@carvalinho.dev"
+      - Linkedin: "linkedin.com/in/felipecarvalh0/"
+
+  - title: "- GitHub Stats"
+    lines:
+      - row:
+          - Repos: "{repos}"
+          - Contributed: "{contributed}"
+          - Stars: "{stars}"
+      - row:
+          - Commits: "{commits}"
+          - Followers: "{followers}"
+      - Lines of Code: "{loc} ( <add>{loc_add}++</add>, <del>{loc_del}--</del> )"

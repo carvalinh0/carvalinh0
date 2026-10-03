@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" width="1192px" height="550px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.add {fill: #3fb950;}
+.del {fill: #f85149;}
+.dim {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1192px" height="550px" fill="#161b22" rx="15"/>
+<text font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="16px" fill="#c9d1d9" xml:space="preserve">
+<tspan x="15" y="30">                       .-++=-::..</tspan>
+<tspan x="15" y="50">                  ..=+*%%%%%%###**=::.</tspan>
+<tspan x="15" y="70">              .:=*##%%%%%%%%%###%%%%%*:</tspan>
+<tspan x="15" y="90">             .*#%%%%%%%%%%%%%%%###%%%%%*:</tspan>
+<tspan x="15" y="110">            :#%%%%%%%%%%%%%%%%%%##%%%%%%*:</tspan>
+<tspan x="15" y="130">           -#%%%%%%%%%%%%%%#*####%%%%%%%%*.</tspan>
+<tspan x="15" y="150">          .*%%%#%##%**%%##%%###%%%%%%%%%%%=</tspan>
+<tspan x="15" y="170">          -#%%%%%###--=###%%%%%%%%%%%%%%%%*-.</tspan>
+<tspan x="15" y="190">          .*%%%%%%#=----+++*#*###%%%%%%###=..</tspan>
+<tspan x="15" y="210">          :#%%%%%#=-----::::-+**++*##%%##%#:</tspan>
+<tspan x="15" y="230">           =#%%%%*++****+--=***++##+#%%*#=-.</tspan>
+<tspan x="15" y="250">           .*%##%%*=+*#*+#++*+===+==*****-</tspan>
+<tspan x="15" y="270">           .-+**%%+===+==*===+++===*++*=..</tspan>
+<tspan x="15" y="290">               :**#+=++++=+++======-*%%-</tspan>
+<tspan x="15" y="310">                 :**====--===------=%#-:</tspan>
+<tspan x="15" y="330">                  =*=------==-----=*=.</tspan>
+<tspan x="15" y="350">                    ..:----------=-#%-</tspan>
+<tspan x="15" y="370">                       +#+===-===+#%%%+-</tspan>
+<tspan x="15" y="390">                      +%@#++++*##%%%%%%%+.</tspan>
+<tspan x="15" y="410">                   .-*%%%%%##%%%%%%%%%%%%#=.</tspan>
+<tspan x="15" y="430">                :-+#@%%%%%%%%%%%%%%%%%%%%@@%*+-.</tspan>
+<tspan x="15" y="450">            .:=#%%@%%%%%%%%%%%%%%%%%%%%%%%%%@@@%+.</tspan>
+<tspan x="15" y="470">          .+%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*</tspan>
+<tspan x="15" y="490">          +@%%%%@@@%%@%%%%%%%%%@%%%@@@@%%%%%%%%%%@=</tspan>
+<tspan x="15" y="510">         :%%%%@@@%%%@%%%%%%%%%@@%@%%@%%%%%%@%%%%%%*.</tspan>
+<tspan x="15" y="530">        .#@@@%@@%%%%@%%%%%%%%@%%%%%%%@%%%%@@%%%%%%%=</tspan>
+</text>
+<text font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="16px" fill="#c9d1d9" xml:space="preserve">
+<tspan x="543" y="30">carvalinh0@github</tspan><tspan> ——————————————————————————————————————————————</tspan>
+<tspan x="543" y="50" class="dim">. </tspan><tspan class="key">Name</tspan><tspan>:</tspan><tspan class="dim"> ........................................ </tspan><tspan class="value">Felipe Carvalho</tspan>
+<tspan x="543" y="70" class="dim">. </tspan><tspan class="key">Location</tspan><tspan>:</tspan><tspan class="dim"> ............................................. </tspan><tspan class="value">Brazil</tspan>
+<tspan x="543" y="90" class="dim">. </tspan><tspan class="key">Company</tspan><tspan>:</tspan><tspan class="dim"> ................................................ </tspan><tspan class="value">FIAP</tspan>
+<tspan x="543" y="110" class="dim">. </tspan><tspan class="key">Hobbies</tspan><tspan>:</tspan><tspan class="dim"> ..................... </tspan><tspan class="value">Photography, Gaming and cooking</tspan>
+<tspan x="543" y="150">Skills</tspan><tspan> —————————————————————————————————————————————————————————</tspan>
+<tspan x="543" y="170" class="dim">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Top</tspan><tspan>:</tspan><tspan class="dim"> ....................... </tspan><tspan class="value">TypeScript, Python, C++</tspan>
+<tspan x="543" y="190" class="dim">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Main</tspan><tspan>:</tspan><tspan class="dim"> ..................... </tspan><tspan class="value">TypeScript, Python, Rust</tspan>
+<tspan x="543" y="210" class="dim">. </tspan><tspan class="key">Technologies</tspan><tspan>:</tspan><tspan class="dim"> ......................................... </tspan><tspan class="value">Docker</tspan>
+<tspan x="543" y="230" class="dim">. </tspan><tspan class="key">Frameworks</tspan><tspan>:</tspan><tspan class="dim"> ............................. </tspan><tspan class="value">React, Express, Hono</tspan>
+<tspan x="543" y="250" class="dim">. </tspan><tspan class="key">Databases</tspan><tspan>:</tspan><tspan class="dim"> ................................. </tspan><tspan class="value">PostgreSQL, MySQL</tspan>
+<tspan x="543" y="270" class="dim">. </tspan><tspan class="key">Databases</tspan><tspan>.</tspan><tspan class="key">ORMs</tspan><tspan>:</tspan><tspan class="dim"> ....................................... </tspan><tspan class="value">Prisma</tspan>
+<tspan x="543" y="290" class="dim">. </tspan><tspan class="key">Popular</tspan><tspan>.</tspan><tspan class="key">Libs</tspan><tspan>:</tspan><tspan class="dim"> ..................................... </tspan><tspan class="value">Discord.js</tspan>
+<tspan x="543" y="310" class="dim">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="dim"> ................................................. </tspan><tspan class="value">VS Code</tspan>
+<tspan x="543" y="330" class="dim">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="dim"> ................................................... </tspan><tspan class="value">Fedora</tspan>
+<tspan x="543" y="370">- Contact</tspan><tspan> ——————————————————————————————————————————————————————</tspan>
+<tspan x="543" y="390" class="dim">. </tspan><tspan class="key">Site</tspan><tspan>:</tspan><tspan class="dim"> ......................................... </tspan><tspan class="value">carvalinho.dev</tspan>
+<tspan x="543" y="410" class="dim">. </tspan><tspan class="key">Email</tspan><tspan>:</tspan><tspan class="dim"> ................................ </tspan><tspan class="value">contact@carvalinho.dev</tspan>
+<tspan x="543" y="430" class="dim">. </tspan><tspan class="key">Linkedin</tspan><tspan>:</tspan><tspan class="dim"> .................... </tspan><tspan class="value">linkedin.com/in/felipecarvalh0/</tspan>
+<tspan x="543" y="470">- GitHub Stats</tspan><tspan> —————————————————————————————————————————————————</tspan>
+<tspan x="543" y="490" class="dim">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="dim"> ...... </tspan><tspan class="value">17</tspan><tspan> | </tspan><tspan class="key">Contributed</tspan><tspan>:</tspan><tspan class="dim"> ...... </tspan><tspan class="value">31</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="dim"> ........ </tspan><tspan class="value">16</tspan>
+<tspan x="543" y="510" class="dim">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="dim"> ................ </tspan><tspan class="value">710</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="dim"> ................ </tspan><tspan class="value">35</tspan>
+<tspan x="543" y="530" class="dim">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="dim"> ................ </tspan><tspan class="value">50.694 ( </tspan><tspan class="add">116.616++</tspan><tspan class="value">, </tspan><tspan class="del">65.922--</tspan><tspan class="value"> )</tspan>
+</text>
+</svg>

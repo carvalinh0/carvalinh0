@@ -1,0 +1,260 @@
+{
+ "version": 3,
+ "params": {
+  "max_commit_lines": 0
+ },
+ "repos": {
+  "05218ad84d496d9189995d63653d33a125e792ed547c61deaad48b2d59859232": {
+   "total": 148,
+   "mine": 7,
+   "add": 37,
+   "del": 38,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "121e9cee48cb4de2b58d248fa3f9194a5a3658ef01d042ad301c435d951a995e": {
+   "total": 1,
+   "mine": 1,
+   "add": 476,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "15719ecc521f17e9f6072180be8297f7cd8040024151337b9ed4ca3c20637b30": {
+   "total": 5,
+   "mine": 5,
+   "add": 1200,
+   "del": 259,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "161288f53aa951c01cd5e4dca87c35c15629ca201cd8749f4297f2b763ce803f": {
+   "total": 1786,
+   "mine": 0,
+   "add": 0,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "2b2dca7552e591b8fe667fcd9be5da73c60e614423a77090fe71e78ebef5c24a": {
+   "total": 9,
+   "mine": 0,
+   "add": 0,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "2d7c4e1ab61f8896a48b1fc6f34525c08a63189dfbed7546f50a2057c3b5c0e5": {
+   "total": 22,
+   "mine": 18,
+   "add": 7269,
+   "del": 2355,
+   "merges": 4,
+   "big": 0,
+   "big_lines": 0
+  },
+  "30bdc23e3b86f482f1a451bd272ea58fb83a34257cd91b4793e9459262322080": {
+   "total": 16,
+   "mine": 13,
+   "add": 14812,
+   "del": 266,
+   "merges": 1,
+   "big": 0,
+   "big_lines": 0
+  },
+  "342ad2f778a4f7318cba8262a6b0926f069a0894e52d514108d22d41315ab13a": {
+   "total": 1,
+   "mine": 1,
+   "add": 260,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "593d2e51d456bfacc610cc85fbeb616f2e6f4974fa762b65f9e4cf338d86a6e1": {
+   "total": 3,
+   "mine": 3,
+   "add": 269,
+   "del": 2,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "61bb78ee102c8af99541328e282dcaab3c5b48081c83b72a0b01865af7901328": {
+   "total": 1,
+   "mine": 1,
+   "add": 1158,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "6fa40223582de121a318eda18fc970c627a7548c45601d476885b66d0ba87947": {
+   "total": 2,
+   "mine": 1,
+   "add": 13,
+   "del": 1,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "71b494220a1b4ead585bbf8d04a8513ce834625aad89b2de92f51bbb52c4a095": {
+   "total": 2,
+   "mine": 2,
+   "add": 297,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "930061a268a9cf63a260d3233f5997f82bed48eade9dd89967cc42195f524297": {
+   "total": 22,
+   "mine": 2,
+   "add": 15,
+   "del": 18,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "935633a61fa87536d1b282a574610761a7adf16b083a9c2cf32b9bac552bf659": {
+   "total": 3,
+   "mine": 1,
+   "add": 54,
+   "del": 46,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "95dc4d6dffe4edf4241748cb9a8a9d7650daef361fcbc18e15a98485276db15b": {
+   "total": 1,
+   "mine": 0,
+   "add": 0,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "9de5e5cc2e8a34b58f15ac85521c2b85e1a9848cf771d943494b9d1e10bcde83": {
+   "total": 31,
+   "mine": 30,
+   "add": 273,
+   "del": 70,
+   "merges": 1,
+   "big": 0,
+   "big_lines": 0
+  },
+  "a4376254c75b1d60f9329c9fe78b31859d613ed53d8f72799fe8ef090a668291": {
+   "total": 1,
+   "mine": 1,
+   "add": 22,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "b23c5da1da60034a3de3cfb15dbafbdcabd4cc2836772d5a45b9da77f30c55e9": {
+   "total": 3,
+   "mine": 3,
+   "add": 431,
+   "del": 5,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "b2d73585fb2ebf2e5cefcf522e34cdbd8b460b6c6798d0bd6925e01f871c44cf": {
+   "total": 40,
+   "mine": 18,
+   "add": 2441,
+   "del": 1082,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "b72239c9f5412779630c79ef9a2b440608b256f92c20b3398925c51708fdc5b8": {
+   "total": 0,
+   "mine": 0,
+   "add": 0,
+   "del": 0,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "b97d33d6f1fc45b0061cea4886a2a2db3b57df2d711560547b39fbb588961b7e": {
+   "total": 34,
+   "mine": 2,
+   "add": 21,
+   "del": 134,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "bd2ef61e746390ab082903427a07ab05bfca0c54fd02e2d356aea129f9a24c5d": {
+   "total": 6,
+   "mine": 1,
+   "add": 76,
+   "del": 2869,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "c9b410e6e585dbfbc8ef2d80b7d02bb3ae7d25bfb6b0b6f7a82325cfab50abf0": {
+   "total": 75,
+   "mine": 43,
+   "add": 11807,
+   "del": 1677,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "d10f229b72a1ebe8d3a2d795b41552cb56a67a10268ba0370d96cb4fcee3f431": {
+   "total": 593,
+   "mine": 525,
+   "add": 60877,
+   "del": 54819,
+   "merges": 29,
+   "big": 0,
+   "big_lines": 0
+  },
+  "d48443cf60b3db99e67861956988b866257bdb1cbfb0d794ef48bd328333b9f4": {
+   "total": 13,
+   "mine": 9,
+   "add": 62,
+   "del": 438,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "d9edb892abb0fbab6ef1c6f389e8dde24ba4d4c5920e31e6036511d34a83918f": {
+   "total": 10,
+   "mine": 9,
+   "add": 3736,
+   "del": 1652,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "f02c8802b955e672fc9185e9caade9611237384a3706339dba0d964414f425b9": {
+   "total": 8,
+   "mine": 7,
+   "add": 2437,
+   "del": 105,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "fa1d1fa08d6fcdebb83893e2a6a51b83b25d4228a9e95138facce7b8be480365": {
+   "total": 7,
+   "mine": 7,
+   "add": 8573,
+   "del": 86,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  }
+ }
+}
