@@ -22,7 +22,7 @@
 # Your GitHub username.
 # Leave "" to automatically use the repository owner
 # (works when the repo is named <username>/<username>).
-username: "carvalinh0"
+username: ""
 
 # Birth date (optional, YYYY-MM-DD). Enables {age}.
 birthday: ""
