@@ -147,4 +147,4 @@ sections:
       - row:
           - Commits: "{commits}"
           - Followers: "{followers}"
-      - Lines of Code: "{loc} ( <add>{loc_add}++</add>, <del>{loc_del}--</del> )"
+      - Lines of Code: "{loc} ( <add>+{loc_add}</add>, <del>-{loc_del}</del> )"
