@@ -239,16 +239,16 @@
    "big_lines": 0
   },
   "964a53eb97cb869ccadf57480b177222333d97c0021e2607ca56fc04e936173b": {
-   "total": 4,
-   "mine": 3,
-   "add": 802,
+   "total": 6,
+   "mine": 4,
+   "add": 4551,
    "del": 2,
    "merges": 0,
    "big": 0,
    "big_lines": 0
   },
   "9de5e5cc2e8a34b58f15ac85521c2b85e1a9848cf771d943494b9d1e10bcde83": {
-   "total": 77,
+   "total": 78,
    "mine": 35,
    "add": 2291,
    "del": 293,
