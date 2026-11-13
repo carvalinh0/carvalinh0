@@ -50,8 +50,8 @@
    "big_lines": 0
   },
   "1f1a0643b65813b5621cf89646c7761c6fd50266421392618db96461ff0bfc11": {
-   "total": 4,
-   "mine": 3,
+   "total": 6,
+   "mine": 4,
    "add": 1042,
    "del": 2,
    "merges": 0,
@@ -194,8 +194,8 @@
    "big_lines": 0
   },
   "730dc8d25eb507ea4125d85c68c4f9bd31ec8326406b7bc1e05564fa9aed13e2": {
-   "total": 4,
-   "mine": 3,
+   "total": 6,
+   "mine": 4,
    "add": 889,
    "del": 1,
    "merges": 0,
@@ -203,8 +203,8 @@
    "big_lines": 0
   },
   "7ce017d30c0b4a9dd13bc28461bddc0b036fcdde0a10b93a459894935fc3f78b": {
-   "total": 4,
-   "mine": 3,
+   "total": 6,
+   "mine": 4,
    "add": 13300,
    "del": 2,
    "merges": 0,
@@ -239,8 +239,8 @@
    "big_lines": 0
   },
   "95fd3d53058ffd5202a8d82da6ee17d0ac76a11245cd77d7642801983eee5b83": {
-   "total": 3,
-   "mine": 3,
+   "total": 5,
+   "mine": 4,
    "add": 1534,
    "del": 193,
    "merges": 0,
@@ -248,8 +248,8 @@
    "big_lines": 0
   },
   "964a53eb97cb869ccadf57480b177222333d97c0021e2607ca56fc04e936173b": {
-   "total": 6,
-   "mine": 4,
+   "total": 8,
+   "mine": 5,
    "add": 4551,
    "del": 2,
    "merges": 0,
@@ -257,7 +257,7 @@
    "big_lines": 0
   },
   "9de5e5cc2e8a34b58f15ac85521c2b85e1a9848cf771d943494b9d1e10bcde83": {
-   "total": 79,
+   "total": 80,
    "mine": 35,
    "add": 2291,
    "del": 293,
@@ -311,8 +311,8 @@
    "big_lines": 0
   },
   "bc6e39e56118d8a0f4cc3ed20b9abe92c7bcbcdfed5e7ff81a1334d43bd3b0f9": {
-   "total": 4,
-   "mine": 3,
+   "total": 6,
+   "mine": 4,
    "add": 938,
    "del": 2,
    "merges": 0,
@@ -338,8 +338,8 @@
    "big_lines": 0
   },
   "c44d2faaee443a7cbb70e061ec8c0c1ad196e06459f02faa39dc31001fd3d540": {
-   "total": 4,
-   "mine": 3,
+   "total": 6,
+   "mine": 4,
    "add": 1442,
    "del": 2,
    "merges": 0,
@@ -347,8 +347,8 @@
    "big_lines": 0
   },
   "c6c8313acb629f0e9819b5aa160e6b8442fe023531479d3da7ba7d800d899234": {
-   "total": 2,
-   "mine": 2,
+   "total": 4,
+   "mine": 3,
    "add": 186,
    "del": 2,
    "merges": 0,
@@ -365,8 +365,8 @@
    "big_lines": 0
   },
   "cdeb17305a21c3352dc4453462ab0499775806519ff9d6f21261e54c3b5ed5d0": {
-   "total": 3,
-   "mine": 3,
+   "total": 5,
+   "mine": 4,
    "add": 1346,
    "del": 172,
    "merges": 0,
@@ -387,6 +387,15 @@
    "mine": 9,
    "add": 62,
    "del": 438,
+   "merges": 0,
+   "big": 0,
+   "big_lines": 0
+  },
+  "d64890e6399a941f4c73422920e53d6fbd0760db7568dfacff890a87791d7eec": {
+   "total": 2,
+   "mine": 1,
+   "add": 174,
+   "del": 0,
    "merges": 0,
    "big": 0,
    "big_lines": 0
@@ -419,10 +428,10 @@
    "big_lines": 0
   },
   "f984cef8a71e12a5a7fc06ed6614f3a001a08e9d774b426fc0314cdb44a5f4dc": {
-   "total": 9,
-   "mine": 8,
-   "add": 2635516,
-   "del": 851,
+   "total": 17,
+   "mine": 13,
+   "add": 2669012,
+   "del": 1888101,
    "merges": 0,
    "big": 0,
    "big_lines": 0
