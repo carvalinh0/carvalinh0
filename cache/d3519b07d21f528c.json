@@ -266,7 +266,7 @@
    "big_lines": 0
   },
   "9de5e5cc2e8a34b58f15ac85521c2b85e1a9848cf771d943494b9d1e10bcde83": {
-   "total": 85,
+   "total": 86,
    "mine": 35,
    "add": 2291,
    "del": 293,
@@ -419,10 +419,10 @@
    "big_lines": 0
   },
   "ebd4e229226fb97c00e53d411bac3b41fe828e48a355df6d0a077cd2e0bb0f0c": {
-   "total": 7,
-   "mine": 7,
-   "add": 4604,
-   "del": 24,
+   "total": 30,
+   "mine": 27,
+   "add": 7569,
+   "del": 362,
    "merges": 0,
    "big": 0,
    "big_lines": 0
